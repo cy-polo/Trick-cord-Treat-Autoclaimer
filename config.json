@@ -1,0 +1,8 @@
+{
+    "token": "TOKEN USER HERE",
+    "servers": ["ID 1", "ID 2"],
+    "timer": {
+        "min": 200,
+        "max": 1500
+    }
+}
