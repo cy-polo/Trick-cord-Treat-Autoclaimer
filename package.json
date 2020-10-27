@@ -1,0 +1,23 @@
+{
+  "name": "trick-cord-treat-autoclaim",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eris": "^0.13.3",
+    "moment": "^2.29.1"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "halloween",
+    "trick",
+    "treat"
+  ]
+}
