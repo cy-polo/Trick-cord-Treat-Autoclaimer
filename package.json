@@ -1,5 +1,5 @@
 {
-  "name": "trick-cord-treat-autoclaim",
+  "name": "trick-cord-treat-autoclaimer",
   "version": "0.0.1",
   "description": "An autoclaimer that claims the tricks or treats from the Discord Trick'cord Treat bot.",
   "main": "index.js",
