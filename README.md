@@ -4,6 +4,10 @@ This project is inspired by this [project](https://github.com/ethankrein/Trickco
 
 ![img](https://miro.medium.com/max/700/1*znYs3T_o7yLyBwY4rPHSvQ.png)  
 
+## Preview
+
+![img](https://cdn.discordapp.com/attachments/678566839214931969/771473396834893824/unknown.png)
+
 ## Requirements
 
 You must have [Node.js](https://nodejs.org/en/).  
@@ -14,8 +18,7 @@ You must have a code editor (IDE), such as [NodePad ++](https://notepad-plus-plu
 Before downloading the directory, please put a ⭐.  
 Once you put a ⭐, you can download the directory.  
 
-In the folder you have downloaded, and also extracted, open the console, then install the dependencies with the command :  
-`npm install`  
+In the folder you have downloaded, and also extracted, open the console, then install the dependencies with the command : `npm install`.  
 
 ### Setup
 
@@ -28,6 +31,10 @@ In `servers`, enter the IDs of the servers you want to snipe. [How do I find the
 In `timer`, enter the minimum time to claim the trick or treat. This is random.  
 In `min`, enter the minimum claim time.  
 In `max`, enter the maximum claim time.  
+
+### Starting
+
+Open the console, and start the autoclaimer with the command `node index.js`.
 
 ### Disclaimer
 This is a selfbot, and it is forbidden by Discord.  
